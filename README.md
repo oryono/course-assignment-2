@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Introduction
 
 This assignment uses data from
@@ -112,11 +111,3 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
-=======
-# course-assignment
-=======
-# course-assignment
-
-To run, download the dataset into the project directory and rename it epc.txt
->>>>>>> d43af82 (add readme)
